@@ -1,11 +1,13 @@
 CSS3制作时钟
 ------------
 
+### 实现效果
+
 ![](./images/clock.png)
 
 ### 代码
 
-```javascript
+```html
 <!DOCTYPE html>
 <html>
     <head>
