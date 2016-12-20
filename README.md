@@ -1,2 +1,5 @@
-# CSS3_learning
-unbelievable CSS3
+CSS3_小实验
+===========
+
+实验一: [CSS3制作时钟](./docs/history.md)
+-----------------------------------------
